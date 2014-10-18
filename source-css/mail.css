@@ -1,0 +1,34 @@
+body {
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    width: 90%;
+    max-width: 600px;
+    margin: 2em auto;
+    border: thin #C0C0C0 solid;
+    min-height:540px;
+    border-radius: 4px;
+}
+
+.header {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+.fancy-rule {
+    width:90%;
+    margin: 0 auto;
+    height:0;
+    border-top:thin #333333 solid;
+    border-bottom: thin #C0C0C0 solid;
+}
+
+.mail-body {
+    padding:16px;
+}
+
